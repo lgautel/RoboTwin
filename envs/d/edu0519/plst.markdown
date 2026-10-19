@@ -1,0 +1,7 @@
+- [An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond](https://arxiv.org/html/2609.24170v1)
+- [Systematically Exploring the Capabilities of GPT-6 Astra as Embodied Policies](https://arxiv.org/html/2609.38537v1)
+- [GPT-6-Astra Lights Up Embodied Navigation Evaluation in Zero-Shot Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/html/2609.29861v2)
+- [Robot Manipulation with GPT-6-Astra: Body Knowledge, Experience Reuse, Emergent Skills, and Sim2Real Transfer](https://arxiv.org/html/2609.31770v1)
+- [CodeActionBench: Evaluating Agentic Code-as-Policy for Embodied Manipulation](https://arxiv.org/html/2609.33807v1)
+- [Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens](https://arxiv.org/html/2610.01939v1)
+- [LIBERO-Agent: Evaluating General-Purpose Agents for Direct Embodied Manipulation](https://arxiv.org/html/2609.39507v1)
