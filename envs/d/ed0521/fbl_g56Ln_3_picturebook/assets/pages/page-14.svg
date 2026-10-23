@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
-  <rect width="800" height="520" rx="28" fill="#eaf7f0"/><path d="M0 360h800v160H0z" fill="#9bd27b"/><path d="M70 430h660" stroke="#ffe066" stroke-width="12" stroke-dasharray="25 16"/>
-  <path d="M390 424q125-100 300-20" fill="none" stroke="#36b37e" stroke-width="18" stroke-linecap="round"/><path d="M595 373l35 31-40 15" fill="none" stroke="#36b37e" stroke-width="9" stroke-linecap="round"/>
-  <g transform="translate(255 408)"><circle cy="-68" r="27" fill="#f5c6a5"/><path d="M-28-76q28-35 56 0" fill="#f5a65b"/><rect x="-25" y="-40" width="50" height="73" rx="15" fill="#f5a65b" stroke="#17324d" stroke-width="5"/><path d="M-19-8l-54 18M19-8l54 18M-14 33l-15 52M14 33l15 52" stroke="#17324d" stroke-width="6" stroke-linecap="round"/><text y="113" text-anchor="middle" font-size="20" font-weight="800" fill="#17324d"></text></g>
-  <g transform="translate(380 408)"><circle cy="-68" r="27" fill="#f5c6a5"/><path d="M-28-76q28-35 56 0" fill="#8fcea5"/><rect x="-25" y="-40" width="50" height="73" rx="15" fill="#8fcea5" stroke="#17324d" stroke-width="5"/><path d="M-19-8l-54 18M19-8l54 18M-14 33l-15 52M14 33l15 52" stroke="#17324d" stroke-width="6" stroke-linecap="round"/><text y="113" text-anchor="middle" font-size="20" font-weight="800" fill="#17324d"></text></g>
-  <g transform="translate(673 150)"><circle r="55" fill="#e4faef" stroke="#36b37e" stroke-width="7"/><path d="M-29 10q29-48 58 0M0 10l35-35" fill="none" stroke="#36b37e" stroke-width="9"/><path d="M-20 28h40" stroke="#36b37e" stroke-width="6"/><text y="90" text-anchor="middle" font-size="20" font-weight="800" fill="#19704e"></text></g>
-  <rect x="123" y="49" width="554" height="57" rx="20" fill="#fffdf8e8"/><text x="400" y="87" text-anchor="middle" font-size="29" font-weight="800" fill="#1769aa"></text>
-  <text x="400" y="184" text-anchor="middle" font-size="23" font-weight="800" fill="#19704e"></text>
-</svg>

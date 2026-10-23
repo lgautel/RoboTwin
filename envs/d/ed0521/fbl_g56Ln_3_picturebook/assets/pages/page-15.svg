@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
-  <rect width="800" height="520" rx="28" fill="#b9ecff"/><path d="M0 355h800v165H0z" fill="#8bd16d"/>
-  <rect x="570" y="184" width="145" height="155" rx="18" fill="#fffdf8" stroke="#1769aa" stroke-width="5"/><text x="642" y="221" text-anchor="middle" font-size="20" font-weight="800" fill="#1769aa"></text><circle cx="642" cy="274" r="25" fill="#f5c6a5"/><path d="M617 273q25-35 50 0" fill="#6d9ee8"/><rect x="613" y="298" width="58" height="45" rx="13" fill="#6d9ee8"/>
-  <path d="M135 130l123-17-42 29 39 22-70-11-35 25 14-38-44-13z" fill="#fff" stroke="#1769aa" stroke-width="6"/>
-  <g fill="#fffdf8" stroke="#1769aa" stroke-width="4"><rect x="155" y="204" width="150" height="72" rx="13"/><rect x="320" y="204" width="150" height="72" rx="13"/><rect x="155" y="296" width="150" height="72" rx="13"/><rect x="320" y="296" width="150" height="72" rx="13"/></g>
-  <g fill="#1769aa" font-size="21" font-weight="800" text-anchor="middle"><text x="230" y="248"></text><text x="395" y="248"></text><text x="230" y="340"></text><text x="395" y="340"></text></g>
-  <rect x="128" y="49" width="544" height="57" rx="20" fill="#fffdf8e8"/><text x="400" y="87" text-anchor="middle" font-size="29" font-weight="800" fill="#1769aa"></text>
-</svg>
