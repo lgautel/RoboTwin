@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
+  <defs><linearGradient id="sunset" x2="0" y2="1"><stop stop-color="#ffcf9a"/><stop offset="1" stop-color="#fff0cf"/></linearGradient></defs>
+  <rect width="800" height="520" rx="28" fill="url(#sunset)"/><circle cx="670" cy="115" r="55" fill="#fff2b3"/>
+  <path d="M0 370h800v150H0z" fill="#83bd70"/><path d="M50 438q190-64 360 0t340 0" fill="none" stroke="#ffe066" stroke-width="11" stroke-dasharray="25 16"/>
+  <path d="M98 136l120-18-42 29 39 23-70-11-36 25 14-39-44-12z" fill="#fff" stroke="#1769aa" stroke-width="6"/>
+  <g transform="translate(220 425) scale(.55)"><circle cy="-68" r="28" fill="#f5c6a5"/><path d="M-29-77q29-36 58 0" fill="#f5a65b"/><rect x="-26" y="-41" width="52" height="74" rx="15" fill="#f5a65b" stroke="#17324d" stroke-width="5"/><path d="M-20-9l-58 18M20-9l58 18M-14 33l-15 52M14 33l15 52" stroke="#17324d" stroke-width="6" stroke-linecap="round"/></g>
+  <g transform="translate(360 425) scale(.55)"><circle cy="-68" r="28" fill="#f5c6a5"/><path d="M-29-77q29-36 58 0" fill="#8fcea5"/><rect x="-26" y="-41" width="52" height="74" rx="15" fill="#8fcea5" stroke="#17324d" stroke-width="5"/><path d="M-20-9l-58 18M20-9l58 18M-14 33l-15 52M14 33l15 52" stroke="#17324d" stroke-width="6" stroke-linecap="round"/></g>
+  <g transform="translate(500 425) scale(.55)"><circle cy="-68" r="28" fill="#f5c6a5"/><path d="M-29-77q29-36 58 0" fill="#ff9b85"/><rect x="-26" y="-41" width="52" height="74" rx="15" fill="#ff9b85" stroke="#17324d" stroke-width="5"/><path d="M-20-9l-58 18M20-9l58 18M-14 33l-15 52M14 33l15 52" stroke="#17324d" stroke-width="6" stroke-linecap="round"/></g>
+  <g transform="translate(675 195)"><circle r="48" fill="#e4faef" stroke="#36b37e" stroke-width="7"/><path d="M-25 10q25-42 50 0M0 10l31-29" fill="none" stroke="#36b37e" stroke-width="8"/><path d="M-21 27h42" stroke="#36b37e" stroke-width="5"/></g>
+  <rect x="100" y="44" width="600" height="66" rx="22" fill="#fffdf8e8" stroke="#36b37e" stroke-width="4"/><text x="400" y="87" text-anchor="middle" font-size="29" font-weight="800" fill="#1769aa"></text>
+</svg>

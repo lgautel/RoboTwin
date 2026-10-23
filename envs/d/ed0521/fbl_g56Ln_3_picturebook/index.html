@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="《小宇和安全小分队》20页中文儿童绘本">
+  <title>小宇和安全小分队｜儿童绘本</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="reader">
+    <header class="reader-header">
+      <div>
+        <p class="eyebrow">校园安全儿童绘本</p>
+        <h1>《小宇和安全小分队》</h1>
+      </div>
+      <a class="text-link" href="print.html">打印版</a>
+    </header>
+
+    <section class="book-card" aria-label="绘本阅读区">
+      <div class="page-image-wrap">
+        <img id="pageImage" class="page-image" src="assets/pages/page-01.svg" alt="封面：小宇站在校园中央，纸飞机和高铁在身边">
+      </div>
+      <article class="page-copy">
+        <p id="pageKicker" class="page-kicker">封面</p>
+        <h2 id="pageTitle">《小宇和安全小分队》</h2>
+        <div id="pageText" class="page-text"></div>
+      </article>
+    </section>
+
+    <nav class="reader-controls" aria-label="绘本翻页控制">
+      <button id="prevButton" class="control-button" type="button">上一页</button>
+      <div class="page-progress">
+        <span id="pageNumber">第1页 / 共20页</span>
+        <progress id="pageProgress" max="20" value="1" aria-label="阅读进度"></progress>
+      </div>
+      <button id="nextButton" class="control-button primary" type="button">下一页</button>
+    </nav>
+
+    <div class="quick-actions">
+      <button id="restartButton" class="small-button" type="button">从第一页开始</button>
+      <button id="soundButton" class="small-button" type="button" aria-pressed="false">阅读提示：开</button>
+    </div>
+
+    <aside class="reading-note">
+      <strong>亲子共读提示：</strong>
+      读到红色预警页时，可以和孩子一起说出：
+      <b>说“停”——走安全线——报告大人——陪伙伴。</b>
+    </aside>
+  </main>
+  <script src="book.js"></script>
+</body>
+</html>
