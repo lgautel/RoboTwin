@@ -49,3 +49,5 @@ curobo/*
 .vscode
 /config.json
 # ./task_config/*
+
+tmp.*
