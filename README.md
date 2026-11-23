@@ -410,3 +410,10 @@ This repository is released under the MIT license. See [LICENSE](./LICENSE) for 
     基于角色不同维度的类型进行聚类
   相似度扩展
   
+# TODO
+
+关键帧或片段生成静态或动态海报
+生成字幕/中英文混合版
+分类和打标签功能
+过一定时间要出题
+
